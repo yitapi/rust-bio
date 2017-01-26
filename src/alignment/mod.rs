@@ -216,7 +216,7 @@ impl Alignment {
             }
         }
 
-        format!("{}\n{}\n{}", x_pretty, inb_pretty, y_pretty)
+        format!("# {}\n# {}# \n{}", x_pretty, inb_pretty, y_pretty)
     }
 }
 
